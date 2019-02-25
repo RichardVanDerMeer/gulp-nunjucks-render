@@ -28,7 +28,7 @@
   ],
   "dependencies": {
     "lodash": "^4.17.5",
-    "nunjucks": "^3.1.2",
+    "nunjucks": "^3",
     "plugin-error": "^1.0.1",
     "replace-ext": "^1.0.0",
     "through2": "^2.0.3"
